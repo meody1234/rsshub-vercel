@@ -95,7 +95,7 @@
     "otplib": "12.0.1",
     "pac-proxy-agent": "7.0.1",
     "plist": "3.1.0",
-    "proxy-chain": "2.4.0",
+    "proxy-chain": "2.7.0",
     "query-string": "9.0.0",
     "re2js": "0.4.1",
     "require-all": "3.0.0",
